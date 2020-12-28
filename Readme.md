@@ -4,7 +4,7 @@ I am currently a third year student at Ecole Polytechnique (X) majoring in Optim
 
 ## Research Projects :
 
-* Sizing of an intervention center on an electrical distribution network, ***Advisors : [Stéphane Gaubert](http://www.cmap.polytechnique.fr/~gaubert/), [Xavier Allamigeon](http://www.cmap.polytechnique.fr/~allamigeon/), [Pascale Bendotti](https://www.lip6.fr/actualite/personnes-fiche.php?ident=A39) and [Thomas Triboulet](https://www.researchgate.net/profile/Thomas_Triboulet).*** [(Report)](Timed%20Petri%20Nets_Report_DRAFT.pdf)
+* Sizing of an intervention center on an electrical distribution network, ***Advisors : [Stéphane Gaubert](http://www.cmap.polytechnique.fr/~gaubert/), [Xavier Allamigeon](http://www.cmap.polytechnique.fr/~allamigeon/), [Pascale Bendotti](https://www.lip6.fr/actualite/personnes-fiche.php?ident=A39) and [Thomas Triboulet](https://www.researchgate.net/profile/Thomas_Triboulet).*** [(Draft Report)](Timed%20Petri%20Nets_Report_DRAFT.pdf)
   * Modelled and analyzed a Call center workflow using timed Petri nets.
   * Determined, with a theoretical and simulation based research, the optimal priority routing policy on the center's activities.
 
