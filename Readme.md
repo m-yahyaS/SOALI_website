@@ -21,7 +21,7 @@ I am currently a third year student at Ecole Polytechnique (X) majoring in Optim
 
 ## Course Projects :
 
-* Chess data analysis and visualization, ***Advisor : [Pierre Bourhis](http://www.lifl.fr/~bourhis/).*** [(Report)](Chess Data Analysis_Report.pdf)
+* Chess data analysis and visualization, ***Advisor : [Pierre Bourhis](http://www.lifl.fr/~bourhis/).*** [(Report)](Chess%20Data%20Analysis_Report.pdf)
   * Purified and analyzed chess game databases.
   * Used knowledge graphs to extract game strategies to be advised to beginners (Neo4j, Gephi).
 
